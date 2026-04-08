@@ -18,6 +18,8 @@ A secure API gateway that manages all outbound agent communication. It enforces 
 ### 4. arg-console
 A high-fidelity governance dashboard providing real-time visualization of agent telemetry, policy evaluation results, and system health metrics. It serves as the primary interface for security operators to manage and audit agentic infrastructure.
 
+![ARG Governance Dashboard](assets/dashboard.png)
+
 ## Trust Model
 
 The platform categorizes agents into nested trust tiers:
